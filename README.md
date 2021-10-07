@@ -8,3 +8,4 @@ https://github.com/LiamMaclean216/Temporal-Fusion-Transformer
 https://www.youtube.com/watch?v=cPlVS3VO-Gw&ab_channel=JorgeSilva  
 https://www.youtube.com/watch?v=iXy8mJnbmqg&ab_channel=CloseToAlgoTrading  
 https://www.youtube.com/watch?v=EeSrQdab0s0&list=PLtqRgJ_TIq8Y6YG8G-ETIFW_36mvxMLad&ab_channel=TradeOptionsWithMe  
+https://www.youtube.com/watch?v=4HZ8usC005A&list=PLK3V_1jIohqK098jdY82if6Ti0Qsw8H4X&index=98&ab_channel=TheTradingChannel  
