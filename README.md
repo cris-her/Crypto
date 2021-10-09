@@ -18,3 +18,4 @@ https://www.youtube.com/watch?v=TLu9cn2UQ6w&ab_channel=Proof
 https://youtu.be/U0s0f995w14  
 https://github.com/mattsherar/Temporal_Fusion_Transform  
 https://youtu.be/M7O4VqRf8s4  
+https://github.com/dehoyosb/temporal_fusion_transformer_pytorch  
