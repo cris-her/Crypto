@@ -15,3 +15,4 @@ https://www.youtube.com/watch?v=EeSrQdab0s0&list=PLtqRgJ_TIq8Y6YG8G-ETIFW_36mvxM
 https://www.youtube.com/watch?v=4HZ8usC005A&list=PLK3V_1jIohqK098jdY82if6Ti0Qsw8H4X&index=98&ab_channel=TheTradingChannel  
 https://youtu.be/M576WGiDBdQ  
 https://www.youtube.com/watch?v=TLu9cn2UQ6w&ab_channel=Proof  
+https://youtu.be/U0s0f995w14  
