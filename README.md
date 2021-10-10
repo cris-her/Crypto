@@ -21,3 +21,4 @@ https://youtu.be/M7O4VqRf8s4
 https://github.com/dehoyosb/temporal_fusion_transformer_pytorch  
 https://paperswithcode.com/paper/temporal-fusion-transformers-for  
 https://github.com/aladdinpersson/Machine-Learning-Collection  
+https://artex.global/prediction/  
