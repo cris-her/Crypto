@@ -1,13 +1,16 @@
 # Crypto
 
 https://github.com/QuantInsti/Quantra-Courses  
+https://github.com/alantess/gtrxl-torch  
 https://github.com/alantess/transformer  
 https://github.com/JanSchm/CapMarket  
+https://github.com/JanSchm/CapMarket/blob/master/bot_experiments/IBM_Transformer%2BTimeEmbedding.ipynb  
 https://towardsdatascience.com/stock-predictions-with-state-of-the-art-transformer-and-time-embeddings-3a4485237de6  
 https://github.com/LiamMaclean216/Temporal-Fusion-Transformer  
 https://github.com/daniel-cortez-stevenson/crypto-predict  
 https://github.com/LiamMaclean216/Any-Coin-TFN  
 https://github.com/jasonwei20/cryptocurrency-prediction  
+https://github.com/elopez17/Cryptocurrency-Price-Prediction  
 https://github.com/topics/bitcoin-price-prediction  
 https://www.youtube.com/watch?v=cPlVS3VO-Gw&ab_channel=JorgeSilva  
 https://www.youtube.com/watch?v=iXy8mJnbmqg&ab_channel=CloseToAlgoTrading  
