@@ -26,3 +26,5 @@ https://paperswithcode.com/paper/temporal-fusion-transformers-for
 https://github.com/aladdinpersson/Machine-Learning-Collection  
 https://artex.global/prediction/  
 https://www.youtube.com/watch?v=4Bdc55j80l8&t=5s  
+https://www.kaggle.com/keshavramaiah/stock-predictor-using-lstm-model?scriptVersionId=10448577  
+https://www.kaggle.com/dpamgautam/stock-price-prediction-lstm-gru-rnn/notebook  
