@@ -28,3 +28,4 @@ https://artex.global/prediction/
 https://www.youtube.com/watch?v=4Bdc55j80l8&t=5s  
 https://www.kaggle.com/keshavramaiah/stock-predictor-using-lstm-model?scriptVersionId=10448577  
 https://www.kaggle.com/dpamgautam/stock-price-prediction-lstm-gru-rnn/notebook  
+https://finance.yahoo.com/quote/IBM/history?period1=-252374400&period2=1634601600&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true  
