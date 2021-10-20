@@ -33,3 +33,17 @@ https://github.com/makerdao/vulcanizedb/blob/prod/documentation/custom-transform
 https://github.com/Ivsxk/RAT  
 https://github.com/zhangxiangnick/Transformer-py  
 https://github.com/notadamking/RLTrader  
+https://www.youtube.com/watch?v=oGc6YWMDaKE&ab_channel=Quantra  
+https://www.youtube.com/watch?v=K9bs_oea3hM&ab_channel=PacktVideo  
+https://www.youtube.com/watch?v=F2f98pNj99k&ab_channel=SirajRaval  
+https://www.youtube.com/watch?v=QQp1KDlQ3v8&list=PLbMO9c_jUD46iez4f2HYjoeJLNdZhVmOi&ab_channel=PythonLessons  
+https://blog.goodaudience.com/machine-learning-for-crypto-traders-a0df1e99419f  
+https://www.analyticsvidhya.com/blog/2021/05/bitcoin-price-prediction-using-recurrent-neural-networks-and-lstm/  
+https://quantdare.com/can-neural-networks-predict-the-stock-market-just-by-reading-newspapers/  
+https://theaisummer.com/Bitcon_prediction_LSTM/  
+https://lucenaresearch.com/2019/11/18/how-transformers-with-attention-networks-boost-time-series-forecasting/  
+https://medium.com/analytics-vidhya/using-deep-learning-to-create-a-stock-trading-bot-a96e6351d31c  
+https://becominghuman.ai/how-to-use-openai-algorithm-to-create-trading-bot-returned-more-than-110-roi-274a2023e412  
+https://github.com/pskrunner14/trading-bot  
+https://github.com/PABlond/RNN-Trading-bot  
+https://github.com/stefan-jansen/machine-learning-for-trading  
