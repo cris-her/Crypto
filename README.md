@@ -51,3 +51,4 @@ https://paperswithcode.com/paper/deep-transformer-models-for-time-series
 https://www.analyticsvidhya.com/blog/2021/05/bitcoin-price-prediction-using-recurrent-neural-networks-and-lstm/  
 https://github.com/O123O/Stock-Price-Prediction-LSTM  
 https://github.com/olof98johansson/StockPrediction  
+https://www.youtube.com/watch?v=D9sU1hLT0QY&list=PLgNJO2hghbmjlE6cuKMws2ejC54BTAaWV&index=6&ab_channel=NicholasRenotte  
