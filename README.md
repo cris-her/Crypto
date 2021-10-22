@@ -47,3 +47,7 @@ https://becominghuman.ai/how-to-use-openai-algorithm-to-create-trading-bot-retur
 https://github.com/pskrunner14/trading-bot  
 https://github.com/PABlond/RNN-Trading-bot  
 https://github.com/stefan-jansen/machine-learning-for-trading  
+https://paperswithcode.com/paper/deep-transformer-models-for-time-series  
+https://www.analyticsvidhya.com/blog/2021/05/bitcoin-price-prediction-using-recurrent-neural-networks-and-lstm/  
+https://github.com/O123O/Stock-Price-Prediction-LSTM  
+https://github.com/olof98johansson/StockPrediction  
