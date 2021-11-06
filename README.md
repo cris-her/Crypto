@@ -54,3 +54,4 @@ https://github.com/olof98johansson/StockPrediction
 https://www.youtube.com/watch?v=D9sU1hLT0QY&list=PLgNJO2hghbmjlE6cuKMws2ejC54BTAaWV&index=6&ab_channel=NicholasRenotte  
 https://www.youtube.com/watch?v=QAo0x9fE6ck&ab_channel=SigmaCoding  
 https://www.youtube.com/watch?v=g04GeHe-dJw&ab_channel=Algovibes  
+https://www.youtube.com/c/SimplilearnOfficial/playlists  
