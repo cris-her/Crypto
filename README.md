@@ -55,3 +55,4 @@ https://www.youtube.com/watch?v=D9sU1hLT0QY&list=PLgNJO2hghbmjlE6cuKMws2ejC54BTA
 https://www.youtube.com/watch?v=QAo0x9fE6ck&ab_channel=SigmaCoding  
 https://www.youtube.com/watch?v=g04GeHe-dJw&ab_channel=Algovibes  
 https://www.youtube.com/c/SimplilearnOfficial/playlists  
+https://www.youtube.com/c/Intellipaat/playlists  
